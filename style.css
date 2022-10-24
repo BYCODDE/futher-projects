@@ -1,202 +1,136 @@
-/* p{
-color: blue; text-align: center;
-font-size: 50px;
-
-
-
-
-}   
-
-
-
-span{color: black;
-text-align: end;}
-
-
-.header{color: blueviolet;
-
-font-size: 50px;
-text-align: center;
-
+body{
+    background-color: #0B0D39;
+}
+.main-div{
+    padding-left: 200px;
 }
 
-
-#pp-id{background-color: red;}
-
-body{background-color:whitesmoke;}
-
-.header{
-    padding: 40px;
-    margin: 50px;
+.container1{
+    background-color: #1A1C46;
+    width: 904px;
+    height: 123px;
+    border-radius: 62px 62px 62px 62px;
+    display: flex;
+    justify-content: center;
 }
-
-.my-list{list-style: none; background-color: black; color: green;          }
-.my-list li{background-color: red;color: yellow;}
-
-
-
-
- */
-
-/* .main-one{background-color:aqua;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
-    grid-template-areas: header header;
-
-
-
+.startup{
+    width: 108px;
+    height: 49px;
+padding-top: 31px;
 }
-   
-.item1 { grind-area:
+.container1 p{
+    color: #FFFFFF;
+    padding: 41px;
+    font-size: 20px;
+    display: inline;
+    padding-top: 30px;
+}
+.item1{
+    opacity: 0.6;}
 
-
-} */
-
-/* .my-box1{
-height:auto;
-border: 5px solid red;
-width: 300px;
-font-size: 30px;
-font-weight:bold;
-text-align: center;
-
+.aa1{ font-size:  80px;
+    width: 654px; color: #FFFFFF
+}
     
 
+.aa2{ color: #356DFF;}
+
+
+.aa3{ color:#FFFFFF;
+    opacity: 0.6;
+    letter-spacing: 0px;
 }
 
 
-.my-box{ display: flex;
-    justify-content:center;
-    
-
-
-
-
+.bb1{
+    border-radius: 43px 43px 43px 12px;
+    background: #356DFF 0% 0% no-repeat padding-box;
+    width: 209px;
+height: 70px;
 }
 
-/* .logo{
-width: 50px;
-height: 60px; */
 
 
 
+.cc1{
+    background: #1A1C46 0% 0% no-repeat padding-box;
+border-radius: 40px;
+opacity: 1;
+top: 685px;
+left: 228px;
+width: 1079px;
+height: 666px;
+}
 
-/* .sign-up-form{ width: 300px; box-shadow:0 0 3px 0 rgba(0,0,0,0.3) ;
-    background: #fff;
-    padding: 20px;;
-    margin:8% auto 0;
+
+.cc2{
+    color: #356DFF;
+}
+
+.cc3{
+    font-size: 64px;
     text-align: center;
-    
-    
-    }
-    
-    body{font-family: sans-serif;
-    background-size:cover ;
-    background-position:center;
-    
-    }
-    
-    .sign-up-form h1{
-    
-    color: #1c8adb; margin-bottom: 30px;
-    
-    
-    }
-    
-    
-    .input-box{ 
-    
-    border-radius: 20px;
-    padding: 10px;
-    margin:10px 0;
-    width:100%;
-    border:1px solid #999 ;
-    outline:none;
-    
-    
-    
-    
-    
-    }
-    
-    
-    button{
-    
-    color:black;
-    width: 100%;
-    padding: 10px;
-    border-radius: 20px;
-    font-size: 15px;
-    margin:10px 0 ;
-    border: none;
-    outline: none;
-    cursor:pointer;
-    
-    
-    
-    
-    
-    
-    }
-    
-    
-    
-    .sign-btn{ background-color:#1c8adb ;
-    
-    
-    
-    
-    
-    
-    }
-    
-    
-    .facebook-btn{ background-color: #21afde;
-     
-    }
-    
-    
-    
-    a{
-        text-decoration:none;
-    }
-    
-    hr{
-        margin-top: 20px;
-        width: 80%;
-    }
-    
-    
-    .or{
-        background: #fff; 
-        width: 30px;
-        margin: -19px auto 10px;
-    
-    }
-    
-    
-    
-    
-    .logo{
-        width: 50px;
-        height: 60px; */
-    
-    
-    
+padding-left: 250px;
+padding-top: 25px;
+color: #FFFFFF;
+letter-spacing: -2.75px;}
 
-    
- .element{ 
+.dd1{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 45px;
+}
+
+.logo1{
+    background-color:#FFFFFF12 ;
+    border-radius: 50%;
+    width: 270px;
+height:270px
+}
+
+.logo2{background-color:#FFFFFF12 ;
+    border-radius: 50%;
+    width: 270px;
+height:270px
+
+}
+
+.logo3{
+    background-color:#FFFFFF12 ;
+    border-radius: 50%;
+    width: 270px;
+height:270px
+}
+
+.ad1{
+    padding-right: 70px;text-align: center;
+    font: normal normal bold 24px/35px DM Sans;
+    letter-spacing: -0.72px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.ag1{
+    text-align: center;
+font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+padding:10px;
+}
 
 
 
- }   
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
 
 
 
