@@ -1,121 +1,29 @@
-body{
-    background-color: #0B0D39;
-}
-.main-div{
-    padding-left: 200px;
-}
-
-.container1{
-    background-color: #1A1C46;
-    width: 904px;
-    height: 123px;
-    border-radius: 62px 62px 62px 62px;
-    display: flex;
-    justify-content: center;
-}
-.startup{
-    width: 108px;
-    height: 49px;
-padding-top: 31px;
-}
-.container1 p{
-    color: #FFFFFF;
-    padding: 41px;
-    font-size: 20px;
-    display: inline;
-    padding-top: 30px;
-}
-.item1{
-    opacity: 0.6;}
-
-.aa1{ font-size:  80px;
-    width: 654px; color: #FFFFFF
-}
-    
-
-.aa2{ color: #356DFF;}
+.element{
+    height: 100px;
+    width: 100px;
+    background-color: red ;
+    animation-name: element;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
 
 
-.aa3{ color:#FFFFFF;
-    opacity: 0.6;
-    letter-spacing: 0px;
-}
+    }
 
+    @keyframes element {
 
-.bb1{
-    border-radius: 43px 43px 43px 12px;
-    background: #356DFF 0% 0% no-repeat padding-box;
-    width: 209px;
-height: 70px;
-}
-
-
-
-
-.cc1{
-    background: #1A1C46 0% 0% no-repeat padding-box;
-border-radius: 40px;
-opacity: 1;
-top: 685px;
-left: 228px;
-width: 1079px;
-height: 666px;
-}
-
-
-.cc2{
-    color: #356DFF;
-}
-
-.cc3{
-    font-size: 64px;
-    text-align: center;
-padding-left: 250px;
-padding-top: 25px;
-color: #FFFFFF;
-letter-spacing: -2.75px;}
-
-.dd1{
-    display: flex;
-    justify-content: space-around;
-    
-}
-
-.logo1{
-    background-color:#FFFFFF12 ;
-    border-radius: 50%;
-    width: 270px;
-height:270px
-}
-
-.logo2{background-color:#FFFFFF12 ;
-    border-radius: 50%;
-    width: 270px;
-height:270px
-
-}
-
-.logo3{
-    background-color:#FFFFFF12 ;
-    border-radius: 50%;
-    width: 270px;
-height:270px
-}
-
-.ad1{
-    padding-right: 70px;text-align: center;
-    font: normal normal bold 24px/35px DM Sans;
-    letter-spacing: -0.72px;
-    color: #FFFFFF;
-    opacity: 1;
-    text-align: center;
-}
-
-.ag1{
-    text-align: center;
-font: normal normal normal 16px/25px DM Sans;
-letter-spacing: -0.06px;
-color: #FFFFFF;
-opacity: 0.6;
-padding:10px;
-}
+    25%{
+        margin-left: 200px;
+        background-color: blue;
+    }
+    50%{margin-top: 200px;
+        background-color: yellow;
+    }
+    75%{
+    margin-right: 200px; 
+    background-color: green;   
+    }
+    100%
+    {margin-bottom: 200px ;
+    background-color: red ;    
+    }
+    }
